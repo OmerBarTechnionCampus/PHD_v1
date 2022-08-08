@@ -1,0 +1,1 @@
+%% movement confighzVel_m = 0.050; % overall hz movement upVel_m = 0.000; % overall v  movement dmsAz = [360,0,0];noise = 0.050;
