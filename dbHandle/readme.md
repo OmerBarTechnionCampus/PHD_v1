@@ -1,4 +1,4 @@
-# DataBase handleing
+# DataBase handeling
 this folder contains the entire data loading methodology
 data structure for this project is set by the functions here
 all rest of functionalities in this project is working around the data structre set here.
